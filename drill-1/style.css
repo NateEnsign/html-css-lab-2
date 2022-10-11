@@ -1,0 +1,53 @@
+/* body {
+    background-color: grey
+}
+
+header{
+
+    height: 15vh;
+    width: 100vw;
+    background-color: rgb(63, 61, 61)
+}
+
+div{
+    height 50vh;
+    width: 100vw;
+    color: white
+
+}
+
+footer{
+    height: 15vh;
+    width: 100vw;
+    background-color: black
+} */
+
+body {
+    margin: 0;
+    background-color: #e2dfdf;
+    width: 100%;
+    height: 100vh;
+  }
+  
+  header {
+    width: 100%;
+    height: 20vh;
+    background-color: #504f4f;
+  }
+  
+  div {
+    background-color: #efecec;
+    margin: 0 auto;
+    width: 75%;
+    height: 70vh;
+  }
+  
+  footer { 
+    background-color: #050505;
+    margin: 0 auto;
+    width: 75%;
+    height: 10vh;
+  }
+
+
+
